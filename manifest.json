@@ -1,0 +1,10 @@
+{
+    "name" : "coding contest extension",
+    "version" : "1.0",
+    "description" : "Gives You the list of all Upcoming Coding Contests",
+    "manifest_version" : 3,
+    "action" : {
+        "default_popup" : "public/index.html",
+        "default_icon" : "icon.png"
+    }
+}
