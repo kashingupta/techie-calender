@@ -12,8 +12,6 @@ API link: https://kontests.net/api/v1/all
 <li> <a href="https://HackerEarth.com" >HackerEarth</a></li> 
 <li> <a href="https://codingcompetitions.withgoogle.com/kickstart/" >Google Kick Start</a></li> 
 </ul>
-<br>
-<br>
 
 ### Google Chrome
 * Go to `chrome://extensions/` and enable `Developer mode`
