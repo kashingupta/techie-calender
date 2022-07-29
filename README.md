@@ -50,7 +50,7 @@ $ cd Techie-Calendar
 
 ## :handshake: Contribution
 Contributions are always welcomed, here is what you need to do:
-1. Work on an existing issue or create a new one [here](https://github.com/mishrarahul07/Techie-Calendar/issues)
+1. Work on an existing issue or create a new one [here](https://github.com/kashingupta/techie-calender/issues)
 2. Create a pull request linked to that issue
 
 Know more about [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
