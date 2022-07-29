@@ -32,7 +32,7 @@ It is a light-weight browser extension which runs in the menu bar. It provides i
 <hr>
 Clone the source code locally:
 
-$ git clone https://github.com/kashingupta/techie-calender.git
+$ git clone https://github.com/kashingupta/techie-calender.git <br>
 $ cd Techie-Calendar
 
 ### Google Chrome
