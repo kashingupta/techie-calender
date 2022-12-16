@@ -12,6 +12,10 @@ Screenshot:
 
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/87571541/208165402-a5e2865e-05a4-40e8-b790-03b9d70f6923.png">
 
+<img width="506" alt="image" src="https://user-images.githubusercontent.com/87571541/208167806-d82ea9fb-44fb-436f-b72f-87f62570f650.png">
+
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/87571541/208167894-6e73f336-afa9-46ae-b855-62c245221390.png">
+
 <ul>
 <li> <a href="https://CodeForces.com" >CodeForces</a></li> 
 <li> <a href="https://CodeChef.com" >CodeChef</a></li> 
