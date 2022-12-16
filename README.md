@@ -4,12 +4,13 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-**A cross-browser extension to provide information about the upcoming contests on following platforms: 
+A cross-browser extension to provide information about the upcoming contests on following platforms:
 
 API link: https://kontests.net/api/v1/all
-Screenshots:
+
+Screenshot:
+
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/87571541/208165402-a5e2865e-05a4-40e8-b790-03b9d70f6923.png">
-![image](https://user-images.githubusercontent.com/87571541/208165493-7eb28983-637e-4087-af53-eaf7d69c321e.png)
 
 <ul>
 <li> <a href="https://CodeForces.com" >CodeForces</a></li> 
@@ -24,10 +25,6 @@ Screenshots:
 
 <hr>
 It is a light-weight browser extension which runs in the menu bar. It provides information about the upcoming coding contests on various Platforms
-
-**Note**: The extension uses the following API :
-* https://kontests.net/api/v1/all
-
 
 ## :heavy_check_mark: Features
 * Provides information about upcoming coding contests
